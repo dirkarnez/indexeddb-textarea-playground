@@ -1,5 +1,5 @@
-[dirkarnez/indexeddb-textarea-playground](https://dirkarnez.github.io/indexeddb-textarea-playground)
-====================================================================================================
+[indexeddb-textarea-playground](https://dirkarnez.github.io/indexeddb-textarea-playground)
+==========================================================================================
 ### Notes
 - DO NOT use wrapper libraries.
 
